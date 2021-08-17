@@ -547,4 +547,4 @@ jobs:
 
 ### 配置文件总结
 
-https://github.com/yongyang2018/CI-node/blob/main/.github/workflows/docker-image.yml   
+https://github.com/yongyang2018/CI-webpack/blob/main/.github/workflows/node.js.yml
